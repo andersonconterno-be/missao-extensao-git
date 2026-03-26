@@ -16,5 +16,5 @@ console.log("Hello World");
 ```
 
 ## Checklist
-- Acordar [x] 
-- Dormir []
+- [ ] tarefa não concluída
+- [x] tarefa concluída
