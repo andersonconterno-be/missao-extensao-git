@@ -13,6 +13,8 @@
 
 ```javascript
 console.log("Hello World");
+```
 
-- [x] Acordar
-- [ ] Dormir
+## Checklist
+- Acordar [x] 
+- Dormir []
